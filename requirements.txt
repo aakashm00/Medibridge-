@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+mediapipe==0.10.14
+opencv-python
+numpy
+scikit-learn
+streamlit
+pyttsx3
